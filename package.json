@@ -6,7 +6,7 @@
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
     "serve-storybook": "serve storybook-static",
-    "chromatic": "npx chromatic --project-token=fe69e68030ec"
+    "chromatic": "npx chromatic --project-token=abf093aa4b26"
   },
   "dependencies": {
     "next": "12.0.8",
